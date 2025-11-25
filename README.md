@@ -9,7 +9,7 @@
 ### 🛠️ Core Skills:
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, Java, SQL, C++ |
+| **Languages** | Python, JavaScript, Java, SQL, Java & OOP |
 | **Frontend** | React, HTML, CSS |
 | **Backend** | Node.js, Express, Flask, Spring Boot |
 | **Databases** | SQL, MongoDB, Firebase |
