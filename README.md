@@ -5,4 +5,3 @@
 * ✨ I have experience with **React, Node.js, Python, Java & OOP, JavaScript and SQL**.
 * 🤝 I’m looking to collaborate on **scalable software projects** and challenging ML applications.
 * 🌱 I’m always learning new technologies and focusing on **software architecture/ engineering** and **Agile methodologies**.
-* 📧 How to reach me: [mustafa.al-bayati0036@stud.hkr.se](mailto:mustafa.al-bayati0036@stud.hkr.se) or connect on [LinkedIn](https://www.linkedin.com/in/mustafa-al-bayati-4abb42263).
