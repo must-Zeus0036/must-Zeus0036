@@ -1,4 +1,4 @@
-# Hi, I'm Mustafa Al-Bayati! 👋
+* Hi, I'm Mustafa Al-Bayati! 👋
 
 * 🎓 I’m currently studying my **third year of Computer Science & Software Development** at **Kristianstad University**.
 * 💻 I’m passionate about **Full-Stack Development**, Mobile Applications (especially Kotlin), and **Machine Learning**.
