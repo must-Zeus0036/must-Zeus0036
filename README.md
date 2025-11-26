@@ -1,4 +1,4 @@
-* 👋 Hi, I'm **Mustafa Al-Bayati**!
+* 👋 Hi, I'm **Mustafa**!
 * 🎓 I’m currently studying my **third year of Computer Science & Software Development** at **Kristianstad University**.
 * 💻 I’m passionate about **Full-Stack Development**, Mobile Applications (especially Kotlin), and **Machine Learning**.
 * ✨ I have experience with **React, Node.js, Python, Java & OOP, JavaScript and SQL**.
