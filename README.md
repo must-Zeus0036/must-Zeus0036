@@ -1,6 +1,6 @@
-* 👋 Hi, I'm **Mustafa**!
-* 🎓 I’m currently studying my **third year of Computer Science & Software Development** at **Kristianstad University**.
+* 👋 Hi, I'm **Mustafa**
+* 🎓 Computer Science & Software Development Graduate | B.Sc. | **Kristianstad University**.
 * 💻 I’m passionate about **Full-Stack Development**, **Embaded** Software Engineering, and **Machine Learning**.
-* ✨ I have experience with **React, Next.js, Python, Java & OOP, JavaScript, TypeScript and SQL**.
-* 🤝 I’m looking to collaborate on **scalable software projects** and challenging ML applications.
-* 🌱 I’m always learning new technologies and focusing on **software architecture/ engineering** and **Agile methodologies**.
+* ✨ I have experience with **React, Next.js, Python, Java & OOP, C, C++, C#, JavaScript, TypeScript and SQL**.
+* 🤝 I’m looking to collaborate on **scalable software/ hardware projects** and challenging in AI and ML applications.
+* 🌱 I’m always learning new technologies and focusing on **software engineering architecture** and **Agile methodologies**.
